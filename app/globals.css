@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-gradient-to-br from-midnight via-purple-soft/20 to-blue-soft/30;
+    @apply text-gray-800;
+    @apply min-h-screen;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-white/90 backdrop-blur-sm rounded-2xl shadow-lg border border-white/20;
+    @apply p-6 transition-all duration-300;
+  }
+  
+  .card:hover {
+    @apply shadow-xl transform scale-[1.02];
+  }
+  
+  .btn-primary {
+    @apply bg-gradient-to-r from-gold to-yellow-400 text-midnight font-semibold;
+    @apply px-8 py-4 rounded-full shadow-lg hover:shadow-xl;
+    @apply transition-all duration-300 transform hover:scale-105;
+    @apply border-2 border-transparent hover:border-gold;
+  }
+  
+  .textarea-focus {
+    @apply focus:ring-2 focus:ring-gold/50 focus:border-gold;
+    @apply transition-all duration-300;
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "saving": "Enregistrement...",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "complete": "terminé",
+    "step": "Étape",
+    "of": "sur"
+  },
+  "hero": {
+    "title": "Réfléchissez à votre 2025, entrez dans 2026",
+    "subtitle": "Prenez un moment pour vous arrêter, réfléchir à votre parcours, et définir vos intentions pour l'année à venir. Votre histoire compte, et cette réflexion vous appartient.",
+    "cta": "🌱 Commencez votre réflexion"
+  },
+  "form": {
+    "title": "Votre réflexion 2025",
+    "subtitle": "Prenez votre temps avec chaque question. Il n'y a pas d'urgence. Vos réflexions sont personnelles et significatives.",
+    "nameLabel": "Souhaitez-vous partager votre nom ? (Optionnel)",
+    "namePlaceholder": "Votre nom ou laissez anonyme",
+    "nameHelp": "Votre nom sera uniquement enregistré avec votre réflexion et gardé privé.",
+    "saveButton": "✨ Enregistrez ma réflexion",
+    "questions": {
+      "grateful": {
+        "question": "Pour quoi êtes-vous le plus reconnaissant en 2025 ?",
+        "placeholder": "Pensez aux personnes, expériences ou moments qui ont apporté de la joie à votre année..."
+      },
+      "challenge": {
+        "question": "Quel défi vous a rendu plus fort ?",
+        "placeholder": "Chaque défi porte une leçon. Qu'avez-vous appris de cette expérience ?"
+      },
+      "moment": {
+        "question": "Quel moment vous a apporté la paix ou le bonheur ?",
+        "placeholder": "Un lever de soleil paisible, une conversation profonde, un acte simple de gentillesse..."
+      },
+      "leaveBehind": {
+        "question": "Qu'aimeriez-vous laisser derrière vous en 2025 ?",
+        "placeholder": "Les vieilles habitudes, les croyances limitantes, ou les situations qui ne vous servent plus..."
+      },
+      "intention": {
+        "question": "Quelle est votre plus grande intention pour 2026 ?",
+        "placeholder": "Un objectif, un rêve, un état d'être que vous souhaitez cultiver..."
+      },
+      "word": {
+        "question": "Quel mot définit le 2026 que vous souhaitez créer ?",
+        "placeholder": "Croissance, Amour, Courage, Équilibre, Aventure, Paix..."
+      }
+    }
+  },
+  "card": {
+    "reflectionTip": "Prenez votre temps pour réfléchir en profondeur. Vos pensées ont de la valeur ici."
+  },
+  "progress": {
+    "stepText": "Étape {{current}} sur {{total}}",
+    "percentageText": "{{percentage}}% terminé"
+  },
+  "success": {
+    "title": "Votre réflexion a été enregistrée ✨",
+    "message": "Merci d'avoir pris ce moment pour réfléchir. Votre parcours de 2025 vous a façonné tel que vous êtes, et vos intentions pour 2026 guideront votre chemin.",
+    "quote": "\"Le voyage de mille lieues commence par un pas.\"",
+    "quoteAuthor": "- Lao Tseu",
+    "shareMessage": "Envisagez de partager cette expérience de réflexion avec quelqu'un que vous aimez. Parfois, grandir ensemble est ce qu'il y a de mieux.",
+    "createAnother": "🌱 Créez une autre réflexion"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिंदी",
+    "as": "অসমীয়া",
+    "ta": "தமிழ்",
+    "kn": "ಕನ್ನಡ",
+    "fr": "Français",
+    "de": "Deutsch"
+  }
+}

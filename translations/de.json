@@ -1,0 +1,74 @@
+{
+  "common": {
+    "loading": "Wird geladen...",
+    "saving": "Wird gespeichert...",
+    "previous": "Zurück",
+    "next": "Weiter",
+    "complete": "abgeschlossen",
+    "step": "Schritt",
+    "of": "von"
+  },
+  "hero": {
+    "title": "Reflektieren Sie Ihr 2025, treten Sie in 2026 ein",
+    "subtitle": "Nehmen Sie sich einen Moment Zeit, um innezuhalten, über Ihre Reise nachzudenken und Ihre Absichten für das kommende Jahr zu definieren. Ihre Geschichte zählt, und diese Reflexion gehört Ihnen.",
+    "cta": "🌱 Beginnen Sie Ihre Reflexion"
+  },
+  "form": {
+    "title": "Ihre 2025 Reflexion",
+    "subtitle": "Nehmen Sie sich Zeit für jede Frage. Es gibt keine Eile. Ihre Reflexionen sind persönlich und bedeutungsvoll.",
+    "nameLabel": "Möchten Sie Ihren Namen teilen? (Optional)",
+    "namePlaceholder": "Ihr Name oder anonym lassen",
+    "nameHelp": "Ihr Name wird nur mit Ihrer Reflexion gespeichert und privat gehalten.",
+    "saveButton": "✨ Speichern Sie meine Reflexion",
+    "questions": {
+      "grateful": {
+        "question": "Wofür sind Sie 2025 am dankbarsten?",
+        "placeholder": "Denken Sie an die Menschen, Erfahrungen oder Momente, die Ihrem Jahr Freude gebracht haben..."
+      },
+      "challenge": {
+        "question": "Welche Herausforderung hat Sie stärker gemacht?",
+        "placeholder": "Jede Herausforderung birgt eine Lektion. Was haben Sie aus dieser Erfahrung gelernt?"
+      },
+      "moment": {
+        "question": "Welcher Moment hat Ihnen Frieden oder Glück gebracht?",
+        "placeholder": "Ein ruhiger Sonnenaufgang, ein tiefes Gespräch, eine einfache Tat der Güte..."
+      },
+      "leaveBehind": {
+        "question": "Was möchten Sie 2025 hinter sich lassen?",
+        "placeholder": "Alte Gewohnheiten, begrenzende Überzeugungen oder Situationen, die Ihnen nicht mehr dienen..."
+      },
+      "intention": {
+        "question": "Was ist Ihre größte Absicht für 2026?",
+        "placeholder": "Ein Ziel, ein Traum, ein Zustand des Seins, den Sie kultivieren möchten..."
+      },
+      "word": {
+        "question": "Welches Wort definiert das 2026, das Sie erschaffen möchten?",
+        "placeholder": "Wachstum, Liebe, Mut, Ausgleich, Abenteuer, Frieden..."
+      }
+    }
+  },
+  "card": {
+    "reflectionTip": "Nehmen Sie sich Zeit für tiefes Nachdenken. Ihre Gedanken sind hier wertvoll."
+  },
+  "progress": {
+    "stepText": "Schritt {{current}} von {{total}}",
+    "percentageText": "{{percentage}}% abgeschlossen"
+  },
+  "success": {
+    "title": "Ihre Reflexion wurde gespeichert ✨",
+    "message": "Danke, dass Sie sich diesen Moment für die Reflexion genommen haben. Ihre Reise durch 2025 hat Sie zu dem gemacht, der Sie sind, und Ihre Absichten für 2026 werden Ihren Weg leiten.",
+    "quote": "\"Eine Reise von tausend Meilen beginnt mit einem einzigen Schritt.\"",
+    "quoteAuthor": "- Lao Tse",
+    "shareMessage": "Erwägen Sie, diese Reflexionserfahrung mit jemandem zu teilen, den Sie lieben. Manchmal ist es am besten, gemeinsam zu wachsen.",
+    "createAnother": "🌱 Erstellen Sie eine weitere Reflexion"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिंदी",
+    "as": "অসমীয়া",
+    "ta": "தமிழ்",
+    "kn": "ಕನ್ನಡ",
+    "fr": "Français",
+    "de": "Deutsch"
+  }
+}

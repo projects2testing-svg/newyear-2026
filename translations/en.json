@@ -1,0 +1,74 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "saving": "Saving...",
+    "previous": "Previous",
+    "next": "Next",
+    "complete": "complete",
+    "step": "Step",
+    "of": "of"
+  },
+  "hero": {
+    "title": "Reflect on Your 2025, Step into 2026",
+    "subtitle": "Take a moment to pause, reflect on your journey, and set your intentions for the year ahead. Your story matters, and this reflection is yours to keep.",
+    "cta": "🌱 Begin Your Reflection"
+  },
+  "form": {
+    "title": "Your 2025 Reflection",
+    "subtitle": "Take your time with each question. There's no rush. Your reflections are personal and meaningful.",
+    "nameLabel": "Would you like to share your name? (Optional)",
+    "namePlaceholder": "Your name or leave blank for anonymous",
+    "nameHelp": "Your name will only be stored with your reflection and kept private.",
+    "saveButton": "✨ Save My Reflection",
+    "questions": {
+      "grateful": {
+        "question": "What are you most grateful for in 2025?",
+        "placeholder": "Think about the people, experiences, or moments that brought joy to your year..."
+      },
+      "challenge": {
+        "question": "What was one challenge that made you stronger?",
+        "placeholder": "Every challenge carries a lesson. What did you learn from this experience?"
+      },
+      "moment": {
+        "question": "What was one moment that brought you peace or happiness?",
+        "placeholder": "A quiet sunrise, a deep conversation, a simple act of kindness..."
+      },
+      "leaveBehind": {
+        "question": "What do you want to leave behind in 2025?",
+        "placeholder": "Old habits, limiting beliefs, or situations that no longer serve you..."
+      },
+      "intention": {
+        "question": "What is your biggest intention for 2026?",
+        "placeholder": "A goal, a dream, a way of being that you want to cultivate..."
+      },
+      "word": {
+        "question": "What one word defines the 2026 you want to create?",
+        "placeholder": "Growth, Love, Courage, Balance, Adventure, Peace..."
+      }
+    }
+  },
+  "card": {
+    "reflectionTip": "Take your time to reflect deeply. Your thoughts here are valuable."
+  },
+  "progress": {
+    "stepText": "Step {{current}} of {{total}}",
+    "percentageText": "{{percentage}}% complete"
+  },
+  "success": {
+    "title": "Your Reflection is Saved ✨",
+    "message": "Thank you for taking this moment to reflect. Your journey through 2025 has shaped who you are, and your intentions for 2026 will guide your path ahead.",
+    "quote": "\"The journey of a thousand miles begins with a single step.\"",
+    "quoteAuthor": "- Lao Tzu",
+    "shareMessage": "Consider sharing this reflection experience with someone you care about. Sometimes the best way to grow is together.",
+    "createAnother": "🌱 Create Another Reflection"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिंदी",
+    "as": "অসমীয়া",
+    "ta": "தமிழ்",
+    "kn": "ಕನ್ನಡ",
+    "fr": "Français",
+    "de": "Deutsch"
+  }
+}
